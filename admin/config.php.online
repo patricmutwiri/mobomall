@@ -1,0 +1,31 @@
+<?php
+// HTTP
+define('HTTP_SERVER', 'http://mobomall.co.ke/opencart/admin/');
+define('HTTP_CATALOG', 'http://mobomall.co.ke/opencart/');
+
+// HTTPS
+define('HTTPS_SERVER', 'http://mobomall.co.ke/opencart/admin/');
+define('HTTPS_CATALOG', 'http://mobomall.co.ke/opencart/');
+
+// DIR
+define('DIR_APPLICATION', '/home/mobomall/public_html/opencart/admin/');
+define('DIR_SYSTEM', '/home/mobomall/public_html/opencart/system/');
+define('DIR_IMAGE', '/home/mobomall/public_html/opencart/image/');
+define('DIR_LANGUAGE', '/home/mobomall/public_html/opencart/admin/language/');
+define('DIR_TEMPLATE', '/home/mobomall/public_html/opencart/admin/view/template/');
+define('DIR_CONFIG', '/home/mobomall/public_html/opencart/system/config/');
+define('DIR_CACHE', '/home/mobomall/public_html/opencart/system/storage/cache/');
+define('DIR_DOWNLOAD', '/home/mobomall/public_html/opencart/system/storage/download/');
+define('DIR_LOGS', '/home/mobomall/public_html/opencart/system/storage/logs/');
+define('DIR_MODIFICATION', '/home/mobomall/public_html/opencart/system/storage/modification/');
+define('DIR_UPLOAD', '/home/mobomall/public_html/opencart/system/storage/upload/');
+define('DIR_CATALOG', '/home/mobomall/public_html/opencart/catalog/');
+
+// DB
+define('DB_DRIVER', 'mysqli');
+define('DB_HOSTNAME', 'localhost');
+define('DB_USERNAME', 'mobomall_shop');
+define('DB_PASSWORD', 'fZ${Ag*eS=(6');
+define('DB_DATABASE', 'mobomall_shop');
+define('DB_PORT', '3306');
+define('DB_PREFIX', 'oc2v_');
